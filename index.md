@@ -2,4 +2,4 @@
 
 ### Task
 
-<font size="3" color="red">This is some text!</font>
+<font size="3" color="33ccaa">This is some text!</font>
